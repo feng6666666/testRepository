@@ -4,4 +4,6 @@ public interface TestDemo1 {
 	//≤‚ ‘∑Ω∑®
 	void test1();
 
+	//≤‚ ‘commit push
+	void test2();
 }
