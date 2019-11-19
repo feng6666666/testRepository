@@ -10,6 +10,8 @@ public interface TestDemo1 {
 
 	//test-branch分支的代码
 	void branch();
-
+	
+	//bb方法
+	void bb();
 
 }
